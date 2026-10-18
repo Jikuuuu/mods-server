@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -289,6 +289,11 @@
       "path": "mods/twilightforest-1.19.2-4.2.1518-universal.jar",
       "sha1": "3b861353a3c6416add4b04bf3f025dd088bc512f",
       "size": 23563760
+    },
+    {
+      "path": "mods/watermedia-3.0.0.23.jar",
+      "sha1": "a983a0875b8b1210c998c48b9157315dcb5aa296",
+      "size": 3625445
     },
     {
       "path": "mods/waystones-forge-1.19.2-11.4.2.jar",
