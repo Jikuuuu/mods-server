@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -166,6 +166,11 @@
       "size": 90781
     },
     {
+      "path": "mods/justzoom_forge_3.0.1_MC_1.19.2.jar",
+      "sha1": "413f01428e6a8561049dc2f65c18add85d4ebb64",
+      "size": 362120
+    },
+    {
       "path": "mods/konkrete_forge_1.8.0_MC_1.19-1.19.2.jar",
       "sha1": "07104e7697fc0d9dc8bb2addb252cdaf1f7a973c",
       "size": 628963
@@ -291,6 +296,11 @@
       "size": 23563760
     },
     {
+      "path": "mods/watermedia-3.0.0.23.jar",
+      "sha1": "a983a0875b8b1210c998c48b9157315dcb5aa296",
+      "size": 3625445
+    },
+    {
       "path": "mods/waystones-forge-1.19.2-11.4.2.jar",
       "sha1": "a11236a564f8e34e358b8b6207086d030abcc6bb",
       "size": 409113
@@ -339,6 +349,176 @@
       "path": "mods/YungsBridges-1.19.2-Forge-3.1.0.jar",
       "sha1": "40b6e7bdce8d6190a1308b97947df905f9c95a5f",
       "size": 379125
+    },
+    {
+      "path": "fancymenu_data/action_favorites.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/browser_audio_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/browser_video_settings.json",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "size": 0
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_leveling_MjExMDQ5OTUtM2EwNC00MmNiLTljODctNWQwYTVjNjNkYmI5LTE3OTIyMzQ1NjA5NDU.json",
+      "sha1": "d99d243ed7953eb0e48f478825807a4f505a4305",
+      "size": 1619
+    },
+    {
+      "path": "fancymenu_data/buddy/buddy_save_MjExMDQ5OTUtM2EwNC00MmNiLTljODctNWQwYTVjNjNkYmI5LTE3OTIyMzQ1NjA5NDU.json",
+      "sha1": "a8b75e9d62a5199e996f78ae6d6dd382cd75f992",
+      "size": 380
+    },
+    {
+      "path": "fancymenu_data/default_scale_set.fm",
+      "sha1": "71b512c0aef621cf4c7351790ac7bbeca78ab9cd",
+      "size": 37
+    },
+    {
+      "path": "fancymenu_data/last_world.fmdata",
+      "sha1": "2d783bc96d43a55bb3489bb1c3e02f5dadb98fbd",
+      "size": 88
+    },
+    {
+      "path": "config/fancymenu/assets/background.png",
+      "sha1": "e81d62401f281716e19477eea5b34e98ac5dffa5",
+      "size": 19063
+    },
+    {
+      "path": "config/fancymenu/assets/boton_hover_rojo.png",
+      "sha1": "f00e1158f7015bed3be0d311902b6850b246479d",
+      "size": 6060
+    },
+    {
+      "path": "config/fancymenu/assets/boton_normal.png",
+      "sha1": "da7e0d26c27b7953542abc4b08e03dd03152370f",
+      "size": 6059
+    },
+    {
+      "path": "config/fancymenu/assets/fondo_minecraft.gif",
+      "sha1": "f00885850555f15797aae4f14d6dedb53a70e723",
+      "size": 39097658
+    },
+    {
+      "path": "config/fancymenu/assets/logo_hs_server.png",
+      "sha1": "3b8e5d1d42d81e9801a9c440ae7a4713d925753b",
+      "size": 267587
+    },
+    {
+      "path": "config/fancymenu/assets/logo_hs_server_animado.gif",
+      "sha1": "bd0a24d7ae5d9b3cc2608ee292c914147fd7e711",
+      "size": 2788881
+    },
+    {
+      "path": "config/fancymenu/assets/sl1.png",
+      "sha1": "bb18feabe3e519f812365d29704478889d9d142f",
+      "size": 4963645
+    },
+    {
+      "path": "config/fancymenu/assets/sl2.png",
+      "sha1": "88f5f3a68838fcaba1952bb025bea18823a456c8",
+      "size": 5062921
+    },
+    {
+      "path": "config/fancymenu/assets/sl3.png",
+      "sha1": "bb3b03918eb83c44e48e8471cdd5a0834ece09cc",
+      "size": 4143655
+    },
+    {
+      "path": "config/fancymenu/assets/sl4.png",
+      "sha1": "84cee79b41eba57c7afb0f5de53e01ea715650a2",
+      "size": 3926887
+    },
+    {
+      "path": "config/fancymenu/assets/sombra_abajo.png",
+      "sha1": "13be02a9ca4cf73cc390de1c461b2a84b6b5e813",
+      "size": 264582
+    },
+    {
+      "path": "config/fancymenu/custom_gui_screens.txt",
+      "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+      "size": 51
+    },
+    {
+      "path": "config/fancymenu/customizablemenus.txt",
+      "sha1": "e6ffb2badf3910d3152b706e0e369cc6f3a84c42",
+      "size": 76
+    },
+    {
+      "path": "config/fancymenu/customization/title_screen_layout.txt",
+      "sha1": "57199b5107f001a12ac80fd5c8afab7c254f6632",
+      "size": 53450
+    },
+    {
+      "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "sha1": "adc605cf794120522f34a402a4301baf4e59350d",
+      "size": 197
+    },
+    {
+      "path": "config/fancymenu/legacy_checklist.txt",
+      "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+      "size": 42
+    },
+    {
+      "path": "config/fancymenu/options.txt",
+      "sha1": "574683c7459a2a20ab63656de4fa7629029eef1f",
+      "size": 4400
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+      "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+      "size": 9349
+    },
+    {
+      "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+      "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark.json",
+      "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+      "size": 9329
+    },
+    {
+      "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+      "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+      "size": 9359
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light.json",
+      "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+      "size": 9331
+    },
+    {
+      "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+      "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+      "size": 9361
+    },
+    {
+      "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+      "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+      "size": 9345
+    },
+    {
+      "path": "config/fancymenu/ui_themes/purple_void.json",
+      "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+      "size": 9343
+    },
+    {
+      "path": "config/fancymenu/ui_themes/spooky_season.json",
+      "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+      "size": 9347
+    },
+    {
+      "path": "config/fancymenu/user_variables.db",
+      "sha1": "b41f9d7688944b0d96eaa089a5a5bb74af28d258",
+      "size": 23
     }
   ]
 }
