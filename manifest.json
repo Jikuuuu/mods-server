@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 9,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -106,6 +106,11 @@
       "size": 371183
     },
     {
+      "path": "mods/dungeonnowloading-18.2-1.19.2.jar",
+      "sha1": "e400c1c9c9c68f26ad71dacf0d9f9744254d4c04",
+      "size": 14009822
+    },
+    {
       "path": "mods/dungeons-and-taverns-5.3.0.jar",
       "sha1": "14d0af26820be52f946c039ba34724c7b9a2f9fc",
       "size": 39640208
@@ -114,6 +119,11 @@
       "path": "mods/DungeonsArise-1.19.2-2.1.56-beta.jar",
       "sha1": "d09651cc449c0ef5f09630b6167f591fc2b273bd",
       "size": 7373714
+    },
+    {
+      "path": "mods/epicfight-forge-19.5.26-1.19.2.jar",
+      "sha1": "15b2fd105046a6d3994bcbc7bff8c066608cce42",
+      "size": 5776680
     },
     {
       "path": "mods/fancymenu_forge_3.9.14_MC_1.19.2.jar",
@@ -176,9 +186,29 @@
       "size": 628963
     },
     {
+      "path": "mods/L_Enders_Cataclysm-2.46-1.19.2 (1).jar",
+      "sha1": "28153ed04652bddf7c4f13d9ca3e7237c494a2fc",
+      "size": 79899301
+    },
+    {
+      "path": "mods/L_Enders_Cataclysm-2.46-1.19.2.jar",
+      "sha1": "17c278c679b17e4803263a78d15ee7870eb242a0",
+      "size": 72139164
+    },
+    {
       "path": "mods/letsdo-vinery-forge-1.3.12.jar",
       "sha1": "2bf6781cb71b4aac767cf6252e59021967a20f5a",
       "size": 2332729
+    },
+    {
+      "path": "mods/majrusz-library-forge-1.19.2-7.0.5-backport.1.jar",
+      "sha1": "a09ce29b6b0c594f4ae212f02596287a68dcb28c",
+      "size": 432588
+    },
+    {
+      "path": "mods/majruszs-difficulty-forge-1.19.2-1.9.9-backport.1.jar",
+      "sha1": "a26d67a70494c71a2f9140092da7698b20372379",
+      "size": 751435
     },
     {
       "path": "mods/Mantle-1.19.2-1.10.48.jar",
@@ -209,6 +239,11 @@
       "path": "mods/MouseTweaks-forge-mc1.19-2.23.jar",
       "sha1": "9d6e76a331c0598edb6293dc658af2d1672864b4",
       "size": 75983
+    },
+    {
+      "path": "mods/mowziesmobs-1.6.3.jar",
+      "sha1": "d1384516a33293da325bd18ddbe7956bff3c01e1",
+      "size": 15096887
     },
     {
       "path": "mods/notenoughanimations-forge-1.12.3-mc1.19.2.jar",
@@ -301,6 +336,11 @@
       "size": 409113
     },
     {
+      "path": "mods/WeaponsOfMiracles-19.1.7.37.jar",
+      "sha1": "8c70505e09bdb02020a4cfbc19f284a2ca667397",
+      "size": 10102831
+    },
+    {
       "path": "mods/xaerominimap-forge-1.19.2-26.6.0.jar",
       "sha1": "0e82e66a77e2ac005b7bfde988e738533e0bd94e",
       "size": 2173789
@@ -324,6 +364,11 @@
       "path": "mods/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar",
       "sha1": "19b6a62a62343d52c2855eabe3634ce44fb6f81e",
       "size": 997998
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
+      "sha1": "20d6905ae07c56b8da267b7c8fe126d7a8892693",
+      "size": 636740
     },
     {
       "path": "mods/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar",
