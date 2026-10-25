@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -334,11 +334,6 @@
       "path": "mods/waystones-forge-1.19.2-11.4.2.jar",
       "sha1": "a11236a564f8e34e358b8b6207086d030abcc6bb",
       "size": 409113
-    },
-    {
-      "path": "mods/WeaponsOfMiracles-19.1.7.37.jar",
-      "sha1": "8c70505e09bdb02020a4cfbc19f284a2ca667397",
-      "size": 10102831
     },
     {
       "path": "mods/xaerominimap-forge-1.19.2-26.6.0.jar",
