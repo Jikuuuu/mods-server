@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -119,11 +119,6 @@
       "path": "mods/DungeonsArise-1.19.2-2.1.56-beta.jar",
       "sha1": "d09651cc449c0ef5f09630b6167f591fc2b273bd",
       "size": 7373714
-    },
-    {
-      "path": "mods/epicfight-forge-19.5.26-1.19.2.jar",
-      "sha1": "15b2fd105046a6d3994bcbc7bff8c066608cce42",
-      "size": 5776680
     },
     {
       "path": "mods/fancymenu_forge_3.9.14_MC_1.19.2.jar",
