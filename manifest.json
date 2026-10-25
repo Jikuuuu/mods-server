@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -199,6 +199,11 @@
       "path": "mods/letsdo-vinery-forge-1.3.12.jar",
       "sha1": "2bf6781cb71b4aac767cf6252e59021967a20f5a",
       "size": 2332729
+    },
+    {
+      "path": "mods/lionfishapi-1.8.jar",
+      "sha1": "a558231433ff18d89b836a535625b85b47934657",
+      "size": 126780
     },
     {
       "path": "mods/majrusz-library-forge-1.19.2-7.0.5-backport.1.jar",
