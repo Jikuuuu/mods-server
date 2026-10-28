@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -34,6 +34,11 @@
       "path": "mods/architectury-6.6.92-forge.jar",
       "sha1": "16fad847d50aa4363180c73afb782e76d53f3656",
       "size": 559099
+    },
+    {
+      "path": "mods/aura-5.0.0.jar",
+      "sha1": "eda2d6e85ded6fc9d23947f51307ad8c02d25b6e",
+      "size": 148225
     },
     {
       "path": "mods/balm-forge-1.19.2-4.6.0.jar",
