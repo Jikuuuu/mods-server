@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -329,6 +329,11 @@
       "path": "mods/twilightforest-1.19.2-4.2.1518-universal.jar",
       "sha1": "3b861353a3c6416add4b04bf3f025dd088bc512f",
       "size": 23563760
+    },
+    {
+      "path": "mods/voicechat-forge-1.19.2-2.6.11.jar",
+      "sha1": "235ccea8d58d8d1a98696d6571007d114474597c",
+      "size": 5330854
     },
     {
       "path": "mods/waystones-forge-1.19.2-11.4.2.jar",
