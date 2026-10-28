@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "minecraft": "1.19.2",
   "forge": "auto",
   "server": "sv19.minehost.pro",
@@ -36,9 +36,9 @@
       "size": 559099
     },
     {
-      "path": "mods/aura-5.0.0.jar",
-      "sha1": "eda2d6e85ded6fc9d23947f51307ad8c02d25b6e",
-      "size": 148225
+      "path": "mods/aura-6.0.0.jar",
+      "sha1": "65f7b3d0f08d384639c2ba98801017b89915bfcb",
+      "size": 157781
     },
     {
       "path": "mods/balm-forge-1.19.2-4.6.0.jar",
